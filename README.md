@@ -1,6 +1,6 @@
-# mi-debian-8
+# mi-debian-9
 
-This repo contains live-build files and scripts to create an custom Debian 8 
+This repo contains live-build files and scripts to create an custom Debian 9
 ISO and image for deploying on SmartOS and Smart Data Center.
 
 For more information on live-build see the [live-build manual](http://live.debian.net/manual/current/index.en.html)
